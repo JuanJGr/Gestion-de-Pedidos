@@ -15,6 +15,8 @@ public class Main {
     // Agregar productos al pedido
 
     ped1.agregarProducto(p1);
+    ped1.agregarProducto(p3);
+    ped1.agregarProducto(p4);
 
 
     // Mostrar detalles del pedido
